@@ -61,9 +61,6 @@ Constraints:
 -- Chicago only if Joe is there
 
 
-
-
-
 Wishlist:
 NOVA?
 Cville required?
