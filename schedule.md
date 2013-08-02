@@ -3,56 +3,62 @@ Wed 8/14
 Thurs 8/15 
     -- SEA
 Fri 8/16 
-*    -- SEA
+    -- SEA
 Sat 8/17 
     -- SEA to ID (?) (drive)
 
 Sun 8/18
     -- ID to LAS (drive)
 Mon 8/19 
-*    -- LAS (invite Wes?) 
+    -- LAS (invite Wes?) 
 Tues 8/20 
     -- LAS to Tempe (drive)
 Wed 8/21 
     -- Tempe
 Thurs 8/22 
-*    -- Tempe
+    -- Tempe
 Fri 8/23 
     -- Tempe to Col (drive)
 Sat 8/24 
-*    -- Col
+    -- Col to Chicago (drive)
 Sun 8/25 
-*    -- Col to Chicago (drive)
+    -- Chicago to Saginaw (drive)
 
 Mon 8/26 
-*    -- Chicago to Saginaw (drive)
+    -- Saginaw
 Tues 8/27 
     -- Saginaw
 Wed 8/28 
-    -- Saginaw
+    -- Saginaw to Boston (drive)
 Thurs 8/29 
-    -- Saginaw to Toronto (drive)
+    -- Boston
 Fri 8/30
-*    -- Toronto
+    -- Boston to Sutton
 Sat 8/31
-    -- Toronto to Sutton (drive)
-Sun 9/1
     -- Sutton
+Sun 9/1
+    -- Sutton to NYC (drive)
 
 Mon 9/2 
-    -- Sutton to Bos (drive)
-Tues 9/3 
-    -- Bos to NYC (drive)
-Wed 9/4 
     -- NYC
-Thurs 9/5 
+Tues 9/3 
+    -- NYC
+Wed 9/4 
     -- NYC to Philly (drive)
+Thurs 9/5 
+    -- Philly to Cville (drive)
 Fri 9/6
-*    -- Philly to Cville (drive)
+    -- Cville to VB (drive)
 Sat 9/7
-*    -- Cville to VB (drive)
+    -- VB (invite Molly?)
 Sun 9/8
-    --  VB (invite Molly?)
+    -- VB to Berk (fly)
+     
+
+Constraints:
+-- Sutton on weekend for baby shower
+-- Vegas not on Fri/Sat for cheap hotel
+-- Chicago only if Joe is there
 
 
 
