@@ -8,10 +8,10 @@
 
 * Wed 8/14: SF to SEA (800 miles, 12.5 hours driving)
 * Thurs 8/15: SEA
-* Fri 8/16: SEA
-* Sat 8/17: SEA to ID (630 miles, 9.5 hours driving)
-* Sun 8/18: ID to LAS (500 miles, 8 hours driving)
-* Mon 8/19: LAS 
+* Fri 8/16: SEA to ID (630 miles, 9.5 hours driving)
+* Sat 8/17: ID to LAS (500 miles, 8 hours driving)
+* Sun 8/18: LAS
+* Mon 8/19: LAS (TODO: Move up Tempe?) 
 * Tues 8/20: LAS to Tempe (300 miles, 5 hours driving)
 * Wed 8/21: Tempe
 * Thurs 8/22: Tempe
