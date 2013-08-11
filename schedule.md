@@ -35,7 +35,7 @@
      
 
 ## Constraints
-* Sutton on weekend for baby shower
+* Sutton on weekend for baby shower (Saturday 8/31 2-5pm)
 * Vegas not on Fri/Sat for cheap hotel
 * Chicago only if Joe is there
 
@@ -87,6 +87,8 @@
 * Colleen
 * Uncle Richard (?)
 * John + Waz (?)
+* Beth
+* Amy+Alex and Jack
 
 ### Philly
 * Jessica + Chris
