@@ -8,15 +8,15 @@
 
 * Wed 8/14: SF to SEA (800 miles, 12.5 hours driving)
 * Thurs 8/15: SEA
-* Fri 8/16: SEA to ID (630 miles, 9.5 hours driving)
-* Sat 8/17: ID to LAS (500 miles, 8 hours driving)
-* Sun 8/18: LAS
-* Mon 8/19: LAS (TODO: Move up Tempe?) 
-* Tues 8/20: LAS to Tempe (300 miles, 5 hours driving)
-* Wed 8/21: Tempe
-* Thurs 8/22: Tempe
-* Fri 8/23: Tempe to Col (850 miles, 13 hours driving)
-* Sat 8/24: Col to Chicago (1000 miles, 14.5 hours driving)
+* Fri 8/16: SEA to LAS (1130 miles, 17.5 hours driving)
+* Sat 8/17: LAS
+* Sun 8/18: LAS to Tempe (300 miles, 5 hours driving)
+* Mon 8/19: Tempe
+* Tues 8/20: Tempe
+* Wed 8/21: Tempe to Col (850 miles, 13 hours driving)
+* Thurs 8/22: Col to Chicago (1000 miles, 15.5 hours driving)
+* Fri 8/23: 
+* Sat 8/24: 
 * Sun 8/25 Chicago to Saginaw (300 miles, 4.5 hours driving)
 * Mon 8/26: Saginaw
 * Tues 8/27: Saginaw
@@ -37,7 +37,7 @@
 ## Constraints
 * Sutton on weekend for baby shower (Saturday 8/31 2-5pm)
 * Vegas not on Fri/Sat for cheap hotel
-* Chicago only if Joe is there
+* Chicago-- 8/22 (Joe leaves for conference 8/23)
 
 
 ## Notes and wishlist
