@@ -81,6 +81,7 @@
 
 ### Boston
 * Speez + Michelle
+* Joanna (?)
 
 ### NYC
 * Dan Paley
@@ -100,6 +101,8 @@
 
 ### DC
 * Sean + Becki
+* Kirsten
+* Maria (?)
 
 ### VB 
 * Mike + Andrea
