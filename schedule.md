@@ -67,6 +67,10 @@
 ### Chicago
 * Joe Friedman
 
+### Ann Arbor (?)
+* Eric Huntley
+* Brittan
+
 ### Saginaw
 * Huntleys
 
@@ -103,6 +107,7 @@
 * Sean + Becki
 * Kirsten
 * Maria (?)
+* Karen (?)
 
 ### VB 
 * Mike + Andrea
