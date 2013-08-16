@@ -7,13 +7,15 @@
 *Total*: 6100 miles, 92 hours driving
 
 * Wed 8/14: SF to SEA (800 miles, 12.5 hours driving)
+     * Actual: SF to Medford, OR (350 miles, 7 hours driving, 50mph avg)   
 * Thurs 8/15: SEA
-* Fri 8/16: SEA to LAS (1130 miles, 17.5 hours driving)
-* Sat 8/17: LAS
-* Sun 8/18: LAS to Tempe (300 miles, 5 hours driving)
-* Mon 8/19: Tempe
-* Tues 8/20: Tempe
-* Wed 8/21: Tempe to Col (850 miles, 13 hours driving)
+     * Actual: Medford, OR to SEA (450 miles, 9.5 hours driving, 47mph avg) 
+* Fri 8/16: SEA to Boise (500 miles, 7.5 hours driving)
+* Sat 8/17: Boise to LAS (650 miles, 10 hours driving)
+* Sun 8/18: LAS
+* Mon 8/19: LAS to Tempe (300 miles, 5 hours driving)
+* Tues 8/20: Tempe to Col (850 miles, 13 hours driving)
+* Wed 8/21: Col
 * Thurs 8/22: Col to Chicago (1000 miles, 15.5 hours driving)
 * Fri 8/23: 
 * Sat 8/24: 
