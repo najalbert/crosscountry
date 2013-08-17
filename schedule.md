@@ -10,7 +10,8 @@
      * Actual: SF to Medford, OR (350 miles, 7 hours driving, 50mph avg)   
 * Thurs 8/15: SEA
      * Actual: Medford, OR to SEA (450 miles, 9.5 hours driving, 47mph avg) 
-* Fri 8/16: SEA to Boise (500 miles, 7.5 hours driving)
+* Fri 8/16: SEA to Boise, ID (500 miles, 7.5 hours driving)
+     * Actual: SEA to Boise, ID (500 miles, 10 hours driving, 50mph avg)
 * Sat 8/17: Boise to LAS (650 miles, 10 hours driving)
 * Sun 8/18: LAS
 * Mon 8/19: LAS to Tempe (300 miles, 5 hours driving)
