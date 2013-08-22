@@ -15,9 +15,13 @@
 * Sat 8/17: Boise to LAS (630 miles, 9.5 hours driving)
      * Actual: Boise to LAS (630 miles, 12 hours on the road, 52mph avg) 
 * Sun 8/18: LAS
+     * Actual: LAS 
 * Mon 8/19: LAS to Tempe (300 miles, 5 hours driving)
+     * Actual: LAS to Glenwood Springs, CO (600 miles, 12.5 hours on the road, 48mph avg)
 * Tues 8/20: Tempe to Col (850 miles, 13 hours driving)
+     * Actual: Glenwood Springs, CO to Golden, CO (150 miles, 2.5 hours on the road, 60mph avg) 
 * Wed 8/21: Col
+     * Actual: Golden, CO to Des Moines, IA (680 miles, 12.5 hours on the road, 54.4mph avg)
 * Thurs 8/22: Col to Chicago (1000 miles, 15.5 hours driving)
 * Fri 8/23: 
 * Sat 8/24: 
