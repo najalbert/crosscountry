@@ -6,16 +6,16 @@
 
 *Total*: 6100 miles, 92 hours driving
 
-* Wed 8/14: SF to SEA (800 miles, 12.5 hours driving)
-     * Actual: SF to Medford, OR (350 miles, 7 hours on the road, 50mph avg)   
-* Thurs 8/15: SEA
-     * Actual: Medford, OR to SEA (450 miles, 9.5 hours on the road, 47mph avg) 
-* Fri 8/16: SEA to Boise, ID (500 miles, 7.5 hours driving)
-     * Actual: SEA to Boise, ID (500 miles, 10 hours on the road, 50mph avg)
-* Sat 8/17: Boise to LAS (630 miles, 9.5 hours driving)
-     * Actual: Boise to LAS (630 miles, 12 hours on the road, 52mph avg) 
-* Sun 8/18: LAS
-     * Actual: LAS 
+
+| Date      | Planned Journey | Planned Miles | Planned Time (hr) | Actual Journey    | Miles | Time on road (hr) | Avg Speed (mph) |
+| --------: | :-------------- | ------------: | ----------------: | :---------------- | ----: | ----------------: | --------------: |
+| Wed, 8/14 | SF to SEA | 800 | 12.5 | SF to Medford, OR | 350 | 7 | 50 |
+| Thurs, 8/15 | SEA  | 0 | 0 | Medford, OR to SEA | 450 | 9.5 | 47 |
+| Fri, 8/16 | SEA to Boise, ID  | 500 | 7.5 | SEA to Boise, ID | 500 | 10 | 50 |
+| Sat, 8/17 | Boise, ID to LAS  | 630 | 9.5 | Boise, ID to LAS | 630 | 12  | 52 |
+| Sun, 8/18 | LAS | 0 | 0 | LAS | 0 | 0  | 0 |
+
+
 * Mon 8/19: LAS to Tempe (300 miles, 5 hours driving)
      * Actual: LAS to Glenwood Springs, CO (600 miles, 12.5 hours on the road, 48mph avg)
 * Tues 8/20: Tempe to Col (850 miles, 13 hours driving)
