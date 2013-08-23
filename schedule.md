@@ -23,21 +23,32 @@
 * Wed 8/21: Col
      * Actual: Golden, CO to Des Moines, IA (680 miles, 12.5 hours on the road, 54.4mph avg)
 * Thurs 8/22: Col to Chicago (1000 miles, 15.5 hours driving)
-* Fri 8/23: 
-* Sat 8/24: 
-* Sun 8/25 Chicago to Saginaw (300 miles, 4.5 hours driving)
+     * Actual: Des Moines, IA to Chicago (350 miles, 6.5 hours on the road, 53.8mph avg)
+* Fri 8/23: Chicago
+     * Actual: Chicago
+* Sat 8/24: Chicago to Ann Arbor, MI (250 miles, 3.5 hours driving)
+     * Predicted: 5 hours on the road
+* Sun 8/25 Ann Arbor, MI to Saginaw, MI (100 miles miles, 1.5 hours driving)
+     * Predicted: 2 hours on the road
 * Mon 8/26: Saginaw
-* Tues 8/27: Saginaw
-* Wed 8/28: Saginaw to Boston (900 miles, 14 hours driving)
+* Tues 8/27: Saginaw to Toronto (300 miles, 4.5 hours driving)
+     * Predicted: 6 hours on the road
+* Wed 8/28: Toronto to Boston (550 miles, 8.5 hours driving)
+     * Predicted: 11 hours on the road
 * Thurs 8/29: Boston
 * Fri 8/30: Boston to Sutton (50 miles, 1 hour driving)
+     * Predicted: 1 hour on the road
 * Sat 8/31: Sutton
 * Sun 9/1: Sutton to NYC (180 miles, 3 hours driving)
+     * Predicted: 3.5 hours on the road
 * Mon 9/2: NYC
 * Tues 9/3: NYC
 * Wed 9/4: NYC to Philly (100 miles, 2 hours driving)
+     * Predicted: 2 hours on the road
 * Thurs 9/5: Philly to Cville (250 miles, 4.5 hours driving)
+     * Predicted: 5 hours on the road
 * Fri 9/6: Cville to VB (200 miles, 3 hours driving)
+     * Predicted: 4 hours on the road
 * Sat 9/7: VB
 * Sun 9/8: VB to Berk (2500 miles, 6 hours flying), VB to Atlanta
      
