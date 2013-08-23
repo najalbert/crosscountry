@@ -20,31 +20,22 @@
 | Thurs, 8/22 | Golden, CO to Chicago | 1000 | 15.5 | Des Moines, IA to Chicago | 350 | 6.5  | 53.8 |
 | Fri, 8/23 | Chicago | 0 | 0 | Chicago | 0 | 0 | 0 |
 | Sat, 8/24 | Chicago to Ann Arbor, MI | 250 | 5 |  |  |  |  |
+| Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 100 | 2 |  |  |  |  |
+| Mon, 8/26 | Saginaw, MI | 0 | 0 |  |  |  |  |
+| Tues, 8/27 | Saginaw, MI to Toronto | 300 | 6 |  |  |  |  |
+| Wed, 8/28 | Toronto to Boston | 550 | 11 |  |  |  |  |
+| Thurs, 8/29 | Boston | 0 | 0 |  |  |  |  |
+| Fri, 8/30 | Boston to Sutton, MA | 50 | 1 |  |  |  |  |
+| Sat, 8/31 | Sutton | 0 | 0 |  |  |  |  |
+| Sun, 9/1 | Sutton to NYC | 180 | 3.5 |  |  |  |  |
+| Mon, 9/2 | NYC | 0 | 0 |  |  |  |  |
+| Tues, 9/3 | NYC | 0 | 0 |  |  |  |  |
+| Wed, 9/4 | NYC to Philly | 100 | 2 |  |  |  |  |
+| Thurs, 9/5 | Philly to Cville | 250 | 5 |  |  |  |  |
+| Fri, 9/6 | Cville to VB | 200 | 4 |  |  |  |  |
+| Sat, 9/7 | VB | 0 | 0 |  |  |  |  |
+| Sun, 9/8 | VB to Berkeley/Atlanta | 2500 | 6 |  |  |  |  |
 
-
-* Sun 8/25 Ann Arbor, MI to Saginaw, MI (100 miles miles, 1.5 hours driving)
-     * Predicted: 2 hours on the road
-* Mon 8/26: Saginaw
-* Tues 8/27: Saginaw to Toronto (300 miles, 4.5 hours driving)
-     * Predicted: 6 hours on the road
-* Wed 8/28: Toronto to Boston (550 miles, 8.5 hours driving)
-     * Predicted: 11 hours on the road
-* Thurs 8/29: Boston
-* Fri 8/30: Boston to Sutton (50 miles, 1 hour driving)
-     * Predicted: 1 hour on the road
-* Sat 8/31: Sutton
-* Sun 9/1: Sutton to NYC (180 miles, 3 hours driving)
-     * Predicted: 3.5 hours on the road
-* Mon 9/2: NYC
-* Tues 9/3: NYC
-* Wed 9/4: NYC to Philly (100 miles, 2 hours driving)
-     * Predicted: 2 hours on the road
-* Thurs 9/5: Philly to Cville (250 miles, 4.5 hours driving)
-     * Predicted: 5 hours on the road
-* Fri 9/6: Cville to VB (200 miles, 3 hours driving)
-     * Predicted: 4 hours on the road
-* Sat 9/7: VB
-* Sun 9/8: VB to Berk (2500 miles, 6 hours flying), VB to Atlanta
      
 
 ## Constraints
