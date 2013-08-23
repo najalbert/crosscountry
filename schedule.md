@@ -14,20 +14,14 @@
 | Fri, 8/16 | SEA to Boise, ID  | 500 | 7.5 | SEA to Boise, ID | 500 | 10 | 50 |
 | Sat, 8/17 | Boise, ID to LAS  | 630 | 9.5 | Boise, ID to LAS | 630 | 12  | 52 |
 | Sun, 8/18 | LAS | 0 | 0 | LAS | 0 | 0  | 0 |
+| Mon, 8/19 | LAS to Tempe | 300 | 5 | LAS to Glenwood Springs, CO | 600 | 12.5  | 48 |
+| Tues, 8/20 | Tempe to Golden, CO | 850 | 13 | Glenwood Springs, CO to Golden, CO | 150 | 2.5  | 60 |
+| Wed, 8/21 | Golden, CO | 0 | 0 | Golden, CO to Des Moines, IA | 680 | 12.5  | 54.4 |
+| Thurs, 8/22 | Golden, CO to Chicago | 1000 | 15.5 | Des Moines, IA to Chicago | 350 | 6.5  | 53.8 |
+| Fri, 8/23 | Chicago | 0 | 0 | Chicago | 0 | 0 | 0 |
+| Sat, 8/24 | Chicago to Ann Arbor, MI | 250 | 5 |  |  |  |  |
 
 
-* Mon 8/19: LAS to Tempe (300 miles, 5 hours driving)
-     * Actual: LAS to Glenwood Springs, CO (600 miles, 12.5 hours on the road, 48mph avg)
-* Tues 8/20: Tempe to Col (850 miles, 13 hours driving)
-     * Actual: Glenwood Springs, CO to Golden, CO (150 miles, 2.5 hours on the road, 60mph avg) 
-* Wed 8/21: Col
-     * Actual: Golden, CO to Des Moines, IA (680 miles, 12.5 hours on the road, 54.4mph avg)
-* Thurs 8/22: Col to Chicago (1000 miles, 15.5 hours driving)
-     * Actual: Des Moines, IA to Chicago (350 miles, 6.5 hours on the road, 53.8mph avg)
-* Fri 8/23: Chicago
-     * Actual: Chicago
-* Sat 8/24: Chicago to Ann Arbor, MI (250 miles, 3.5 hours driving)
-     * Predicted: 5 hours on the road
 * Sun 8/25 Ann Arbor, MI to Saginaw, MI (100 miles miles, 1.5 hours driving)
      * Predicted: 2 hours on the road
 * Mon 8/26: Saginaw
