@@ -2,7 +2,7 @@
 
 ## Schedule
 
-[Map](http://goo.gl/maps/ePE0O)
+[Map](http://goo.gl/maps/EVTLT)
 
 *Total*: 6100 miles, 92 hours driving
 
@@ -29,9 +29,9 @@
 | Sat, 8/31 | Sutton | 0 | 0 |  |  |  |  |
 | Sun, 9/1 | Sutton to NYC | 180 | 3.5 |  |  |  |  |
 | Mon, 9/2 | NYC | 0 | 0 |  |  |  |  |
-| Tues, 9/3 | NYC | 0 | 0 |  |  |  |  |
-| Wed, 9/4 | NYC to Philly | 100 | 2 |  |  |  |  |
-| Thurs, 9/5 | Philly to Cville | 250 | 5 |  |  |  |  |
+| Tues, 9/3 | NYC to Philly | 100 | 2 |  |  |  |  |
+| Wed, 9/4 | Philly to DC | 150 | 3 |  |  |  |  |
+| Thurs, 9/5 | DC to Cville | 125 | 2.5 |  |  |  |  |
 | Fri, 9/6 | Cville to VB | 200 | 4 |  |  |  |  |
 | Sat, 9/7 | VB | 0 | 0 |  |  |  |  |
 | Sun, 9/8 | VB to Berkeley/Atlanta | 2500 | 6 |  |  |  |  |
