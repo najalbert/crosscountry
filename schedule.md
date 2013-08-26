@@ -19,9 +19,9 @@
 | Wed, 8/21 | Golden, CO | 0 | 0 | Golden, CO to Des Moines, IA | 680 | 12.5  | 54.4 |
 | Thurs, 8/22 | Golden, CO to Chicago | 1000 | 15.5 | Des Moines, IA to Chicago | 350 | 6.5  | 53.8 |
 | Fri, 8/23 | Chicago | 0 | 0 | Chicago | 0 | 0 | 0 |
-| Sat, 8/24 | Chicago to Ann Arbor, MI | 250 | 5 |  |  |  |  |
-| Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 100 | 2 |  |  |  |  |
-| Mon, 8/26 | Saginaw, MI | 0 | 0 |  |  |  |  |
+| Sat, 8/24 | Chicago to Ann Arbor, MI | 250 | 5 | Chicago to Ann Arbor, MI | 250 | 5 | 50 |
+| Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 100 | 2 | Ann Arbor, MI to Saginaw, MI | 100 | 1.75 | 57 |
+| Mon, 8/26 | Saginaw, MI | 0 | 0 | Saginaw, MI | 0 | 0 | 0 |
 | Tues, 8/27 | Saginaw, MI to Toronto | 300 | 6 |  |  |  |  |
 | Wed, 8/28 | Toronto to Boston | 550 | 11 |  |  |  |  |
 | Thurs, 8/29 | Boston | 0 | 0 |  |  |  |  |
