@@ -16,11 +16,11 @@
 | Sun, 8/18 | LAS | 0 | 0 | LAS | 0 | 0  | 0 |
 | Mon, 8/19 | LAS to Tempe | 300 | 5 | LAS to Glenwood Springs, CO | 600 | 12.5  | 48 |
 | Tues, 8/20 | Tempe to Golden, CO | 850 | 13 | Glenwood Springs, CO to Golden, CO | 150 | 2.5  | 60 |
-| Wed, 8/21 | Golden, CO | 0 | 0 | Golden, CO to Des Moines, IA | 680 | 12.5  | 54.4 |
-| Thurs, 8/22 | Golden, CO to Chicago | 1000 | 15.5 | Des Moines, IA to Chicago | 350 | 6.5  | 53.8 |
+| Wed, 8/21 | Golden, CO | 0 | 0 | Golden, CO to Des Moines, IA | 680 | 12.5  | 54 |
+| Thurs, 8/22 | Golden, CO to Chicago | 1000 | 15.5 | Des Moines, IA to Chicago | 350 | 6.5  | 54 |
 | Fri, 8/23 | Chicago | 0 | 0 | Chicago | 0 | 0 | 0 |
-| Sat, 8/24 | Chicago to Ann Arbor, MI | 250 | 5 | Chicago to Ann Arbor, MI | 250 | 5 | 50 |
-| Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 100 | 2 | Ann Arbor, MI to Saginaw, MI | 100 | 1.75 | 57 |
+| Sat, 8/24 | Chicago to Ann Arbor, MI | 240 | 5 | Chicago to Ann Arbor, MI | 240 | 5 | 48 |
+| Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 90 | 2 | Ann Arbor, MI to Saginaw, MI | 90 | 1.5 | 60 |
 | Mon, 8/26 | Saginaw, MI | 0 | 0 | Saginaw, MI | 0 | 0 | 0 |
 | Tues, 8/27 | Saginaw, MI to Toronto | 300 | 6 |  |  |  |  |
 | Wed, 8/28 | Toronto to Boston | 550 | 11 |  |  |  |  |
