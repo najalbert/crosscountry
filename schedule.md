@@ -22,11 +22,11 @@
 | Sat, 8/24 | Chicago to Ann Arbor, MI | 240 | 5 | Chicago to Ann Arbor, MI | 240 | 5 | 48 |
 | Sun, 8/25 | Ann Arbor, MI to Saginaw, MI | 90 | 2 | Ann Arbor, MI to Saginaw, MI | 90 | 1.5 | 60 |
 | Mon, 8/26 | Saginaw, MI | 0 | 0 | Saginaw, MI | 0 | 0 | 0 |
-| Tues, 8/27 | Saginaw, MI to Toronto | 300 | 6 |  |  |  |  |
-| Wed, 8/28 | Toronto to Boston | 550 | 11 |  |  |  |  |
-| Thurs, 8/29 | Boston | 0 | 0 |  |  |  |  |
-| Fri, 8/30 | Boston to Sutton, MA | 50 | 1 |  |  |  |  |
-| Sat, 8/31 | Sutton | 0 | 0 |  |  |  |  |
+| Tues, 8/27 | Saginaw, MI to Toronto | 290 | 6 | Saginaw, MI to Toronto | 290 | 6.25 | 46 |
+| Wed, 8/28 | Toronto to Boston | 550 | 11 | Toronto to Sutton, MA | 515 | 12.5 | 41 |
+| Thurs, 8/29 | Boston | 0 | 0 | Sutton, MA (visit Boston via commuter train)  | 0 | 0 | 0 |
+| Fri, 8/30 | Boston to Sutton, MA | 50 | 1 | Sutton, MA | 0 | 0 | 0 |
+| Sat, 8/31 | Sutton | 0 | 0 | Sutton, MA | 0 | 0 | 0 |
 | Sun, 9/1 | Sutton to NYC | 180 | 3.5 |  |  |  |  |
 | Mon, 9/2 | NYC | 0 | 0 |  |  |  |  |
 | Tues, 9/3 | NYC to Philly | 100 | 2 |  |  |  |  |
