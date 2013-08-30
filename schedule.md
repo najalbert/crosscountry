@@ -2,9 +2,9 @@
 
 ## Schedule
 
-[Map](http://goo.gl/maps/EVTLT)
+[Map](http://goo.gl/maps/c7MsS)
 
-*Total*: 6100 miles, 92 hours driving
+*Total*: 5500 miles, 84 hours driving
 
 
 | Date      | Planned Journey | Planned Miles | Planned Time (hr) | Actual Journey    | Miles | Time on road (hr) | Avg Speed (mph) |
@@ -26,8 +26,8 @@
 | Wed, 8/28 | Toronto to Boston | 550 | 11 | Toronto to Sutton, MA | 515 | 12.5 | 41 |
 | Thurs, 8/29 | Boston | 0 | 0 | Sutton, MA (visit Boston via commuter train)  | 0 | 0 | 0 |
 | Fri, 8/30 | Boston to Sutton, MA | 50 | 1 | Sutton, MA | 0 | 0 | 0 |
-| Sat, 8/31 | Sutton | 0 | 0 | Sutton, MA | 0 | 0 | 0 |
-| Sun, 9/1 | Sutton to NYC | 180 | 3.5 |  |  |  |  |
+| Sat, 8/31 | Sutton, MA | 0 | 0 | Sutton, MA | 0 | 0 | 0 |
+| Sun, 9/1 | Sutton, MA to NYC | 180 | 3.5 |  |  |  |  |
 | Mon, 9/2 | NYC | 0 | 0 |  |  |  |  |
 | Tues, 9/3 | NYC to Philly | 100 | 2 |  |  |  |  |
 | Wed, 9/4 | Philly to DC | 150 | 3 |  |  |  |  |
