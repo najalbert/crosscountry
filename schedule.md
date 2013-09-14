@@ -27,14 +27,14 @@
 | Thurs, 8/29 | Boston | 0 | 0 | Sutton, MA (visit Boston via commuter train)  | 0 | 0 | 0 |
 | Fri, 8/30 | Boston to Sutton, MA | 50 | 1 | Sutton, MA | 0 | 0 | 0 |
 | Sat, 8/31 | Sutton, MA | 0 | 0 | Sutton, MA | 0 | 0 | 0 |
-| Sun, 9/1 | Sutton, MA to NYC | 180 | 3.5 |  |  |  |  |
-| Mon, 9/2 | NYC | 0 | 0 |  |  |  |  |
-| Tues, 9/3 | NYC to Philly | 100 | 2 |  |  |  |  |
-| Wed, 9/4 | Philly to DC | 150 | 3 |  |  |  |  |
-| Thurs, 9/5 | DC to Cville | 125 | 2.5 |  |  |  |  |
-| Fri, 9/6 | Cville to VB | 200 | 4 |  |  |  |  |
-| Sat, 9/7 | VB | 0 | 0 |  |  |  |  |
-| Sun, 9/8 | VB to Berkeley/Atlanta | 2500 | 6 |  |  |  |  |
+| Sun, 9/1 | Sutton, MA to NYC | 180 | 3.5 | Sutton, MA to NYC | 180 | 4 | 45 |
+| Mon, 9/2 | NYC | 0 | 0 | NYC | 0 | 0 | 0 |
+| Tues, 9/3 | NYC to Philly | 100 | 2 | NYC to Philly | 100 | 2.25 | 44 |
+| Wed, 9/4 | Philly to DC | 140 | 3 | Philly to DC | 140 | 3.5 | 40 |
+| Thurs, 9/5 | DC to Cville | 125 | 2.5 | DC to Cville | 125 | 2.5 | 50 |
+| Fri, 9/6 | Cville to VB | 180 | 4 | Cville to VB | 180 | 3.5 | 51 |
+| Sat, 9/7 | VB | 0 | 0 | VB | 0 | 0 | 0 |
+| Sun, 9/8 | VB to Berkeley/Atlanta | 2900 | 6 | VB to Berkeley | 2900 | 11.75 | 246 |
 
      
 
